@@ -1,0 +1,19 @@
+a:link {
+  text-decoration:underline; 
+  color:#0f243e;
+}
+
+a:visited {
+  text-decoration:underline; 
+  color:#0f243e;
+}
+
+a:hover {
+  text-decoration:underline; 
+  color:#800000;
+}
+
+body {
+  background-color: #92cddc;
+  margin: 25px;
+}
